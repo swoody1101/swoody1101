@@ -1,6 +1,11 @@
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=250&section=header&text=Lee%20SangU&fontSize=70)
+
 ### Hi there 👋
 
+
 <!--
+
+<div><h2>🏆 Award</h2></div>
 **swoody1101/swoody1101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
