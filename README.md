@@ -25,7 +25,64 @@
 - `2022.07 ~ 2022.08` &nbsp; 당신의 계절 : 퍼스널컬러 진단 서비스
 
 ### Tools & Skills
+<span>
+    <img src="https://img.shields.io/badge/Java-orange?style=plastic&logo=Java&logoColor=white"/>
+</span>
+<span>
+    <img src="https://img.shields.io/badge/C-blueviolet?style=plastic&logo=C&logoColor=white"/>
+</span>
+<span>
+    <img src="https://img.shields.io/badge/JavaScript-yellow?style=plastic&logo=JavaScript&logoColor=white"/>
+</span>
+<span>
+    <img src="https://img.shields.io/badge/HTML-red?style=plastic&logo=HTML5&logoColor=white"/>
+</span>
+<span>
+    <img src="https://img.shields.io/badge/CSS-blue?style=plastic&logo=CSS3&logoColor=white"/>
+</span>
+<span>
+    <img src="https://img.shields.io/badge/MySQL-blue?style=plastic&logo=MySQL&logoColor=white"/>
+</span>
 
+<br>
+
+<span>
+    <img src="https://img.shields.io/badge/Spring%20Boot-brightgreen?style=plastic&logo=Spring%20Boot&logoColor=white"/>
+</span>
+<span>
+    <img src="https://img.shields.io/badge/Spring%20Security-green?style=plastic&logo=Spring%20Security&logoColor=white"/>
+</span>
+<span>
+    <img src="https://img.shields.io/badge/JPA-lightgray?style=plastic&logo=Hibernate&logoColor=white"/>
+</span>
+<span>
+    <img src="https://img.shields.io/badge/MyBatis-lightgreen?style=plastic&logo=MyBatis&logoColor=white"/>
+</span>
+<span>
+    <img src="https://img.shields.io/badge/React-blue?style=plastic&logo=React&logoColor=white"/>
+</span>
+<span>
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=plastic&logo=Vue.js&logoColor=white"/>
+</span>
+<br>
+
+<span>
+    <img src="https://img.shields.io/badge/AWS-orange?style=plastic&logo=Amazon%20AWS&logoColor=white"/>
+</span>
+<span>
+    <img src="https://img.shields.io/badge/Docker-blue?style=plastic&logo=Docker&logoColor=white"/>
+</span>
+<span>
+    <img src="https://img.shields.io/badge/Git-red?style=plastic&logo=Git&logoColor=white"/>
+</span>
+<span>
+    <img src="https://img.shields.io/badge/Github-black?style=plastic&logo=Github&logoColor=white"/>
+</span>
+<span>
+    <img src="https://img.shields.io/badge/Gitlab-orange?style=plastic&logo=Gitlab&logoColor=white"/>
+</span>
+
+<br>
 
 </div>
 </div>
