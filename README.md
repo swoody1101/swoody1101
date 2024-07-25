@@ -10,7 +10,7 @@
 <div align="left">  
   
 ### Contacts
-- Email : Swoody1101@gmail.com   
+- Email : swoody1101@gmail.com   
 - Blog : https://swoody1101.tistory.com
 
 ### Education
