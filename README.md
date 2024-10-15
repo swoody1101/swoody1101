@@ -96,9 +96,8 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=swoody1101&&style=flat-square" align="center" />
 </div>  
-<br><br><br><br>
+<br><br><br>
 
 <!-- Footer banner -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=60&section=footer&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=50&section=footer&text=&fontSize=0" width="100%"/>
 </div>
-<br>
