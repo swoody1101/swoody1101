@@ -18,11 +18,11 @@
 - `2014.03 ~ 2022.02` &nbsp; Medical IT Engineering  (SCH University, Asan)   
 
 ### Projects
-- `2024.01 ~ 2024.05` &nbsp; Challang : 주류 리뷰 서비스
+- `2024.01 ~ 2024.05` &nbsp; Challang : 주류 리뷰 커뮤니티 서비스
 - `2023.02 ~ 2023.06` &nbsp; Banana Vote : 리서치 서비스
 - `2022.10 ~ 2022.11` &nbsp; 닿다(DA-TA) : 익명의 편지 서비스
 - `2022.08 ~ 2022.10` &nbsp; RECHEFI : 요리 레시피 커뮤니티 서비스
-- `2022.07 ~ 2022.08` &nbsp; 당신의 계절 : 퍼스널컬러 진단 서비스
+- `2022.07 ~ 2022.08` &nbsp; 당신의 계절 : 퍼스널컬러 얘약 및 진단 서비스
 
 ### Tools & Skills
 <span>
