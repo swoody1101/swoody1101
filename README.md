@@ -26,11 +26,16 @@
 
 ### Tools & Skills
 <span>
+    <img src="https://img.shields.io/badge/C-blueviolet?style=plastic&logo=C&logoColor=white"/>
+</span>
+<span>
     <img src="https://img.shields.io/badge/Java-orange?style=plastic&logo=Java&logoColor=white"/>
 </span>
 <span>
-    <img src="https://img.shields.io/badge/C-blueviolet?style=plastic&logo=C&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/>
 </span>
+<br>
+
 <span>
     <img src="https://img.shields.io/badge/JavaScript-yellow?style=plastic&logo=JavaScript&logoColor=white"/>
 </span>
@@ -41,9 +46,14 @@
     <img src="https://img.shields.io/badge/CSS-blue?style=plastic&logo=CSS3&logoColor=white"/>
 </span>
 <span>
-    <img src="https://img.shields.io/badge/MySQL-blue?style=plastic&logo=MySQL&logoColor=white"/>
+    <img src="https://img.shields.io/badge/jQuery-0769AD?style=plastic&logo=jQuery&logoColor=white"/>
 </span>
-
+<span>
+    <img src="https://img.shields.io/badge/React-blue?style=plastic&logo=React&logoColor=white"/>
+</span>
+<span>
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=plastic&logo=Vue.js&logoColor=white"/>
+</span>
 <br>
 
 <span>
@@ -59,10 +69,7 @@
     <img src="https://img.shields.io/badge/MyBatis-lightgreen?style=plastic&logo=MyBatis&logoColor=white"/>
 </span>
 <span>
-    <img src="https://img.shields.io/badge/React-blue?style=plastic&logo=React&logoColor=white"/>
-</span>
-<span>
-    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=plastic&logo=Vue.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MySQL-blue?style=plastic&logo=MySQL&logoColor=white"/>
 </span>
 <br>
 
@@ -73,6 +80,9 @@
     <img src="https://img.shields.io/badge/Docker-blue?style=plastic&logo=Docker&logoColor=white"/>
 </span>
 <span>
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=plastic&logo=Jenkins&logoColor=white"/>
+</span>
+<span>
     <img src="https://img.shields.io/badge/Git-red?style=plastic&logo=Git&logoColor=white"/>
 </span>
 <span>
@@ -81,7 +91,6 @@
 <span>
     <img src="https://img.shields.io/badge/Gitlab-orange?style=plastic&logo=Gitlab&logoColor=white"/>
 </span>
-
 <br>
 
 </div>
