@@ -92,11 +92,8 @@
     <img src="https://img.shields.io/badge/Gitlab-orange?style=plastic&logo=Gitlab&logoColor=white"/>
 </span>
 <br>
+<br>
 
-</div>
-</div>
-
-<br><br>
 ### Github Stats
 <div align="center">
 <!-- My profile -->
